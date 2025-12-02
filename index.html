@@ -26,4 +26,9 @@
       </div>
     </section>
   </body>
+  <script>
+  const base = 'https://www.sourcesplash.com/i/random?nature,water&orientation=landscape';
+  const url = base + '&t=' + Date.now(); // timestamp evita cache
+  document.body.style.backgroundImage = `url("${url}")`;
+</script>
 </html>

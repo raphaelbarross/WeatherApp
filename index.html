@@ -1,31 +1,31 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="pt-BR">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="index.css" />
+    <script src="scripts.js"></script>
     <title>Weather App</title>
   </head>
   <body>
     <section class="container">
       <input class="input-cidade" placeholder="Digite o nome da cidade" />
-      <button>Buscar</button>
+      <button class="button" onclick="buscarCidade()">
+        <img class="button-img" src="img/lupa.svg" alt="" />
+      </button>
 
       <div class="caixa-media">
         <h2 class="cidade">Tempo em Rio De Janeiro</h2>
-
-        <pc class="Tempo">21°C</p>
+        <p class="tempo">21°C</p> 
 
         <div class="caixa-clima">
           <img class="img" src="img/nuvem.png" alt="Ícone do clima" />
-          <p class="texto">Nublado</p>
+          <p class="texto-previsao">Nublado</p>
         </div>
 
         <p class="umidade">umidade: 78%</p>
-        <p class="vento">vento: 9 km/h</p> 
-        <img src="img/bolso.webp" alt="Ícone do bolso">
+        <p class="vento">vento: 9 km/h</p>
       </div>
     </section>
   </body>
-
 </html>

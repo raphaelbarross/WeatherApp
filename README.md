@@ -13,11 +13,9 @@ Aplicação web simples de clima desenvolvida para estudos, que consome dados **
   - Ícone representando a condição climática
 - Atualização dinâmica dos dados na tela
 
-## Como funciona
 
-O JavaScript envia um pedido para um site de clima na internet, recebe os dados e mostra essas informações na tela automaticamente.
 
-## Como usar o projeto
+## Como rodar o projeto
 
 1. Clone ou faça o download deste repositório  
 2. Abra o arquivo `index.html` em qualquer navegador  
@@ -38,6 +36,3 @@ O JavaScript envia um pedido para um site de clima na internet, recebe os dados 
 - Praticar consumo de APIs
 - Criar uma aplicação simples e funcional
 
-## Observação
-
-Projeto feito apenas para fins de aprendizado.

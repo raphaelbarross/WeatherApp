@@ -17,6 +17,14 @@ Aplicação web simples de clima desenvolvida para estudos, que consome dados **
 
 O JavaScript envia um pedido para um site de clima na internet, recebe os dados e mostra essas informações na tela automaticamente.
 
+## Como usar o projeto
+
+1. Clone ou faça o download deste repositório  
+2. Abra o arquivo `index.html` em qualquer navegador  
+3. Digite o nome de uma cidade no campo de busca  
+4. Clique no botão de pesquisa  
+5. As informações do clima aparecerão na tela
+
 ## Tecnologias usadas
 
 - HTML

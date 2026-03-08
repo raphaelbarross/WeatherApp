@@ -1,4 +1,5 @@
 # WeatherApp
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/0a5bb152-4795-400e-a723-dcb153315930" />
 
 Aplicação web simples de clima desenvolvida para estudos, que consome dados **em tempo real** de uma API externa para exibir informações meteorológicas de uma cidade.
 
